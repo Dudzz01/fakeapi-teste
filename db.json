@@ -1,0 +1,11 @@
+{
+   "records": {
+      "OPRID": "valor_OPRID",
+      "RUN_CNTL_ID": "valor_RUN_CNTL_ID",
+      "AJ_PROCESSO": "valor_AJ_PROCESSO",
+      "AJ_TYPE_PROCESS": "valor_AJ_TYPE_PROCESS",
+      "DESCR254": "valor_DESCR254",
+      "SETID": "valor_SETID",
+      "AJ_ID": "valor_AJ_ID"
+   }
+}
